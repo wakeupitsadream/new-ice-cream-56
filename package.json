@@ -1,0 +1,19 @@
+{
+  "name": "new-ice-cream-56",
+  "private": true,
+  "description": "Сайт New Ice Cream 56 — корпусное мороженое ручной работы, Оренбург",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/onest": "^5.3.1",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@fontsource/unbounded": "^5.3.0",
+    "esbuild": "^0.28.2",
+    "three": "0.160.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
